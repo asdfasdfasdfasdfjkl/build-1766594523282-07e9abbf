@@ -1,0 +1,19 @@
+{
+  "website_address": "https://temariliq.visionexcellencecenter.com/signup.php",
+  "app_name": "Temsrr",
+  "version_code": "1",
+  "version_name": "1.0.0",
+  "name_space": "com.temsrr",
+  "has_custom_icon": true,
+  "build_type": "release",
+  "platform": "android",
+  "permissions": {
+    "camera": "disabled",
+    "location": "disabled",
+    "microphone": "disabled",
+    "notifications": "disabled",
+    "contacts": "disabled"
+  },
+  "created_at": "2025-12-24T16:42:07.731Z",
+  "app_icon": "data:image/png;base64,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"
+}
